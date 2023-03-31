@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-pizza/static/css/main.3462003f.css",
+    "main.js": "/React-pizza/static/js/main.89b2059f.js",
+    "index.html": "/React-pizza/index.html",
+    "main.3462003f.css.map": "/React-pizza/static/css/main.3462003f.css.map",
+    "main.89b2059f.js.map": "/React-pizza/static/js/main.89b2059f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3462003f.css",
+    "static/js/main.89b2059f.js"
+  ]
+}
