@@ -10,10 +10,12 @@ import './scss/app.scss'
 
 function App() {
 
+  const [searchValue, setSearchValue] = useState('')
+
   return (
     
     <div className="wrapper">
-      <Header />
+      <Header searchValue={searchValue} setSearchValue={setSearchValue}/>
       <div className="content">
         
           <Routes>
